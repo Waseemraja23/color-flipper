@@ -1,0 +1,36 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    /* background-color: rgb(227, 196, 155); */
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; */
+}
+#main{
+    border: 2px solid black;
+    width: 99.67%;
+    height: 547px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 25px;
+}
+#color{
+    border: 5px solid black;
+    width: 400px;
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 25px;
+    
+}
+button{
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+}
